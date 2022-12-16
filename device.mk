@@ -42,3 +42,7 @@ PRODUCT_PACKAGES += \
 # MTK PlPath Utils
 PRODUCT_PACKAGES += \
     mtk_plpath_utils.recovery
+
+# Keystore
+PRODUCT_PACKAGES += \
+    android.system.keystore2
