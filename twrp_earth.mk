@@ -16,9 +16,9 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/xiaomi/earth/device.mk)
 
 PRODUCT_DEVICE := earth
-PRODUCT_NAME := earth_earth
-PRODUCT_BRAND := Android
-PRODUCT_MODEL := 22120RN86C
+PRODUCT_NAME := twrp_earth
+PRODUCT_BRAND := Redmi
+PRODUCT_MODEL := Redmi 12C
 PRODUCT_MANUFACTURER := xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
